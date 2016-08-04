@@ -1,0 +1,29 @@
+_repo: Robin-Hood_832
+_version: 0.0.1
+creator:
+  author:
+    agent_name: McSpadden, J. Walker (Joseph Walker)
+    aliases:
+    - Walker, Joseph
+    - McSpadden, Joseph Walker
+    birthdate: 1874
+    deathdate: 1960
+    gutenberg_agent_id: '437'
+    url: http://www.gutenberg.org/2009/agents/437
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2006-01-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '832'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Folklore -- England'
+- !lcsh 'Robin Hood (Legendary character) -- Legends'
+- !lcc 'PZ'
+- GITenberg
+title: Robin Hood
+url: http://www.gutenberg.org/ebooks/832
